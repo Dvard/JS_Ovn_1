@@ -3,7 +3,7 @@ Grunder i programmering: JavaScript-övning 1.
 
 # Uppgiften:
 
-## JS övning 1
+# JS övning 1
 - Gör en ny html-fil med namnet js_ovn_1.html och en JS-fil med namnet js_ovn_1.js och koppla ihop.
 - Använd console.log()-funktionen för att skriva ut texten  
 ````
@@ -19,7 +19,7 @@ Detta är uppgift 1
 - Skriv ut i en div med id:n *uppg8* texten: *divisionen är divide* (ex ``divisionen är 4``)
 - Gör en variabel med räkningen *(3*4,765) / 2* avrunda med ``Math.ceil()``-funktionen.  Skriv ut svaret i en div med id:n *uppg9*.
 
-## ----- EXTRA ---
+## --- EXTRA ---
 Gör en knapp (``<button>``) som öppnar en alert med texten ``”Vilken fin knapp!”`` då man trycker på den.
 Gör en knapp som öppnar en alert med värdet på variabeln **hej** *(i uppg 2.)*.
 
